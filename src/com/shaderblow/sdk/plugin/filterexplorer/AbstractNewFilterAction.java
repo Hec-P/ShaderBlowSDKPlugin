@@ -1,4 +1,4 @@
-package com.shaderblow.sdk.plugin.filterexplorer.actions;
+package com.shaderblow.sdk.plugin.filterexplorer;
 
 /**
  *

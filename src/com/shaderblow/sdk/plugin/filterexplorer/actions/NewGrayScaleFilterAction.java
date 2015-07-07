@@ -1,5 +1,6 @@
 package com.shaderblow.sdk.plugin.filterexplorer.actions;
 
+import com.shaderblow.sdk.plugin.filterexplorer.AbstractNewFilterAction;
 import com.jme3.gde.core.filters.actions.NewFilterAction;
 import com.jme3.post.Filter;
 import com.shaderblow.filter.grayscale.GrayScaleFilter;
