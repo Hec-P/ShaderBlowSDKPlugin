@@ -12,12 +12,12 @@ import com.shaderblow.filter.grayscale.GrayScaleFilter;
 public class NewGrayScaleFilterAction extends AbstractNewFilterAction {
 
     public NewGrayScaleFilterAction() {
-        name = PREFFIX_NAME + "GrayScale";
+        name = PREFFIX_NAME + "Gray Scale";
     }
 
     @Override
     protected Filter doCreateFilter() {
         return new GrayScaleFilter();
     }
-    
+
 }

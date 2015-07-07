@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.shaderblow.sdk.plugin.filterexplorer;
 
 import com.jme3.post.Filter;
@@ -30,7 +25,6 @@ public abstract class AbstractFilterNode
     @Override
     public Image getIcon(int type) {
         return sIcon;
-
     }
 
     @Override
@@ -43,7 +37,6 @@ public abstract class AbstractFilterNode
 
         }
         fireIconChange();
-
     }
 
 }
