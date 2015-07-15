@@ -25,7 +25,7 @@
                     </run-dependency>
                 </dependency>
                 <dependency>
-                    <code-name-base>com.shaderblow.wrapper</code-name-base>
+                    <code-name-base>com.shaderblow.plugin</code-name-base>
                     <build-prerequisite/>
                     <compile-dependency/>
                     <run-dependency>
